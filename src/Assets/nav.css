@@ -1,0 +1,23 @@
+nav{
+    background-color: #5cadc96c;
+    width: 100%;
+    
+}
+ul{
+    height: 50px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+a{
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+   
+}
+.active{
+    color: rgb(234, 235, 234);
+    border-radius: 5px;
+}
